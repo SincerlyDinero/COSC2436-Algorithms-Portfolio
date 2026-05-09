@@ -1,7 +1,7 @@
 # Chapter 1: Binary Search vs Linear Search — Lab Report
 
 ## Student Information
-- **Name:** [Your Name]
+- **Name:** Nathan Higgins
 - **Date:** May 2026
 - **Course:** COSC 2436
 
