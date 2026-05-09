@@ -2,7 +2,7 @@
 
 ## Student Information
 -  Name: Nathan Higgins
-- Date: May 2026
+- Date: May 9 2026
 - Course: COSC 2436
 
 ## Algorithm Summary
