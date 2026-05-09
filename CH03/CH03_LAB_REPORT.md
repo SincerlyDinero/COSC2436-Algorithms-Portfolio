@@ -1,7 +1,7 @@
 # Chapter 3: Recursion — Lab Report
 
 ## Student Information
--  Name: [Nathan Higgins]
+-  Name: Nathan Higgins
 - Date: May 2026
 - Course: COSC 2436
 
